@@ -1,4 +1,7 @@
-import day1
+from day2 import solve
 
 # day one
-day1.solve('day1-input.txt', True)
+# solve('inputs/day1-input.txt', True)
+
+# day two
+solve('inputs/day2-input.txt', True)
